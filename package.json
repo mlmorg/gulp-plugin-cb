@@ -1,6 +1,6 @@
 {
   "name": "gulp-plugin-cb",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Transform Vinyl files using Gulp plugins but with a callback interface",
   "keywords": [],
   "author": "Matt Morgan <matt@mlmorg.com>",
